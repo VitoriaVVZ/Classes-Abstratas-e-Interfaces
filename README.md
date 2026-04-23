@@ -1,12 +1,12 @@
-# Classes: Abstratas e Interfaces
+# (OO) Orientação a Objetos: Classes Abstratas e Interfaces
 
-Este repositório contém o projeto prático desenvolvido para a disciplina de Programação Orientada a Objetos. O objetivo é demonstrar a Abstração através de dois pilares fundamentais: Classes Abstratas e Interfaces, utilizando o cenário de um sistema de gestão de produtos de uma confeitaria.
+Este repositório contém o projeto desenvolvido para o trabalho de Programação Orientação a Objetos. O objetivo é demonstrar a Abstração através de dois pilares fundamentais: Classes Abstratas e Interfaces, utilizando o cenário de um sistema de gestão de produtos de uma confeitaria.
 
 ---
 
 # 🎯 Objetivo do Trabalho
 
-A finalidade deste projeto é demonstrar como o Java lida com a modelagem de entidades do mundo real. Através da abstração, isolamos as características essenciais de um objeto, escondendo a complexidade interna e focando no que o código deve realizar, em vez de como ele faz.
+O objetivo deste projeto é demonstrar como o Java lida com a modelagem de entidades. Através da abstração, isolamos as características essenciais de um objeto, escondendo a complexidade interna e focando no que o código deve realizar, em vez de como ele faz.
 
 ---
 
